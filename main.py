@@ -4,6 +4,7 @@ def main():
     print(f'I from Surgut!!!')
     print('2022')
     print(11111111)
+    print('Я на Gite!!!!!!!!!!!!!!!!')
 
 
 if __name__ == '__main__':
