@@ -3,6 +3,7 @@ def main():
     print(f'Hello Git')
     print(f'I from Surgut!!!')
     print('2022')
+    print(11111111)
 
 
 if __name__ == '__main__':
